@@ -1,6 +1,5 @@
 #-------------------------------------------------------------------------
 # Created by:  Doddi, Chidvi
-#              cdoddi
 #              1st June 2019
 #
 # Description: This program is responsible for resembling a guessing game based on what numbered option (1-3) the user decides to enter.
