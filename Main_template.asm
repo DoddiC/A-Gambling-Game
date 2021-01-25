@@ -1,8 +1,8 @@
 #--------------------------------------------------------------
-# Created by:  Rebecca
+# Created by:  Chidvi Doddi
 #              26 May 2019
 #
-# Description: Test code for Lab 5 for CMPE 12 19sp
+# Description: Template for the test code for the project
 #
 # Note:        This program is intended to run in the MARS IDE
 #--------------------------------------------------------------
@@ -396,7 +396,7 @@ la   $a1  array_
 
 jal  play_game
 
-.include  "Lab5.asm"                     #replace this with Lab5.asm <---------<---------<--------- SAFE TO MODIFY
+.include  "Main.asm"                     # SAFE TO MODIFY
 
 
 
