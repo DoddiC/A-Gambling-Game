@@ -1,8 +1,8 @@
 #--------------------------------------------------------------
-# Created by:  Rebecca
+# Created by:  Chidvi Doddi
 #              26 May 2019
 #
-# Description: Test code for Lab 5 for CMPE 12 19sp
+# Description: Test code for the project
 #
 # Note:        This program is intended to run in the MARS IDE
 #--------------------------------------------------------------
@@ -396,7 +396,7 @@ print_new_line
 
 print_s_regs("take_turn", "after")                             # display values of s regs before subroutine
 
-.include  "Lab5(2).asm"                     #replace this with Lab5.asm <---------<---------<--------- SAFE TO MODIFY
+.include  "Main(2).asm"                     # SAFE TO MODIFY
 
 
 
