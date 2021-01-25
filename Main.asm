@@ -3,10 +3,6 @@
 #              cdoddi
 #              1st June 2019
 #
-# Assignment:  Lab 5: A Gambling Game
-#              CMPE 012, Computer Systems and Assembly Language
-#              UC Santa Cruz, Spring 2019
-# 
 # Description: This program is responsible for resembling a guessing game based on what numbered option (1-3) the user decides to enter.
 # 
 # Notes:       This file is able to run alone or with the given test file.
